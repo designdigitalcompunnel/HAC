@@ -1,0 +1,39 @@
+HAC website redesign concept
+
+Brand and content sources
+https://ruralhome.org/
+https://ruralhome.org/wp-content/uploads/2026/11/HAC-2026-Website-Redesign-RFP-1.pdf
+
+Illustrative stock media from Pexels: https://www.pexels.com/license/
+Stock photos and footage are illustrative and do not depict specific HAC projects.
+
+HAC-Horizontal-High-Resolution.png: User-approved Housing Assistance Council brand logo.
+HAC-Site-Icon-270.png: User-approved Housing Assistance Council favicon.
+building-homes.mp4: https://www.pexels.com/video/skilled-workers-constructing-a-wooden-frame-house-31025072/
+building-homes.webp: https://www.pexels.com/video/skilled-workers-constructing-a-wooden-frame-house-31025072/
+community-partners.webp: https://www.pexels.com/photo/5710191/
+consulting-session.webp: https://www.pexels.com/photo/3184302/
+farmworker-housing.webp: https://www.pexels.com/photo/31997931/
+footer-credit-dark.svg: Credit artwork included with the supplied template.
+homeownership.webp: https://www.pexels.com/photo/3951745/
+housing-conversation.webp: https://www.pexels.com/photo/1181433/
+housing-data-review.webp: https://www.pexels.com/photo/3183153/
+housing-developer.webp: https://www.pexels.com/photo/8961526/
+housing-development.webp: https://www.pexels.com/photo/1626859/
+housing-exteriors-hero.webp: User-supplied homepage 2.png (homepage slide 2).
+housing-finance.webp: https://www.pexels.com/photo/9034222/
+housing-model.webp: https://www.pexels.com/photo/7578939/
+housing-recovery.webp: https://www.pexels.com/photo/16714488/
+housing-training.webp: https://www.pexels.com/photo/3866369/
+illinois-housing.webp: https://www.pexels.com/photo/9146388/
+planning-resources.webp: https://www.pexels.com/photo/3184339/
+policy-discussion.webp: https://www.pexels.com/photo/3931436/
+research-discussion.webp: https://www.pexels.com/photo/3184357/
+research-hero.jpg: User-supplied resarch & resource.jpeg (Research & Resources).
+research-team.webp: https://www.pexels.com/photo/7841783/
+rural-homes.webp: https://www.pexels.com/photo/13036398/
+rural-neighborhood-data.webp: https://www.pexels.com/photo/4395882/
+rural-neighborhood-hero.webp: User-supplied homepage 1.png (homepage slide 1).
+rural-veterans.webp: https://www.pexels.com/photo/35665256/
+taking-stock.webp: https://www.pexels.com/photo/8330963/
+training-participants.webp: https://www.pexels.com/photo/5710927/
