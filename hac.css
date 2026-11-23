@@ -802,7 +802,16 @@ footer .footer-logo img {
   width: 152px !important;
   filter: none !important;
 }
-footer .footer-wordmark .footer-lettering { font-size: 135px !important; fill-opacity: .31; }
+/* Keep wordmark width unchanged, with a gradual 20% opacity reduction at
+   the top and 50% at the bottom relative to the existing lettering opacity. */
+footer .footer-wordmark .footer-lettering {
+  font-size: 135px !important;
+  fill-opacity: .155;
+  transform: scaleY(.72);
+  transform-origin: center top;
+  -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,.8) 0%, rgba(0,0,0,.5) 100%);
+  mask-image: linear-gradient(to bottom, rgba(0,0,0,.8) 0%, rgba(0,0,0,.5) 100%);
+}
 footer .footer-bottom-credit { filter: brightness(0) invert(1); }
 .a11y-fab.icon-only {
   border: 1px solid rgba(255,255,255,.88);

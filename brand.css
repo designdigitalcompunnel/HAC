@@ -273,9 +273,9 @@ main h2.display:not(.slide-heading) em {
   background: linear-gradient(93deg, rgba(23,31,36,.92), rgba(23,31,36,.78) 61%, rgba(23,31,36,.66)) !important;
 }
 .logo-grid .pillar:hover { border-color: var(--accent-blue); }
-.logo-grid .pi { color: var(--brand-navy); background: var(--accent-cyan); }
-.logo-grid .pillar:nth-child(3n+2) .pi { color: var(--accent-purple); background: #DAF1FA; }
-.logo-grid .pillar:nth-child(3n+3) .pi { color: var(--brand-navy); background: #E2F4BC; }
+.logo-grid .pi { color: var(--brand-navy); background: #DAF1FA; }
+.logo-grid .pillar:nth-child(3n+2) .pi { color: var(--brand-navy); background: #DAF1FA; }
+.logo-grid .pillar:nth-child(3n+3) .pi { color: var(--brand-navy); background: #DAF1FA; }
 .pc-media .cap, .loop .loop-label, .acc-label {
   background: rgba(23,75,104,.83) !important;
   color: white !important;

@@ -37,3 +37,5 @@ rural-neighborhood-hero.webp: User-supplied homepage 1.png (homepage slide 1).
 rural-veterans.webp: https://www.pexels.com/photo/35665256/
 taking-stock.webp: https://www.pexels.com/photo/8330963/
 training-participants.webp: https://www.pexels.com/photo/5710927/
+
+Training & Support (Our Work, card 02): Original AI-generated illustrative image, supplied for this website demonstration, packaged as assets/training-support-workshop.webp.
